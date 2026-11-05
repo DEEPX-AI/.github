@@ -22,7 +22,7 @@ optimization, and deployment.
 
 - **High efficiency** — the proprietary **DX-COM** compiler extracts full NPU performance with Intelligent Quantization (INT8) that minimizes accuracy loss.
 - **Seamless integration** — build vision analytics pipelines with **DX-Stream** (GStreamer-based plugins) without heavy code changes.
-- **Flexible ecosystem** — Python and C++ APIs, a **ModelZoo** of 340+ optimized models, and workflows for popular frameworks (Ultralytics, PaddlePaddle, RapidAI).
+- **Flexible ecosystem** — Python and C++ APIs, a **ModelZoo** of 497 optimized models, and workflows for popular frameworks (Ultralytics, PaddlePaddle, RapidAI).
 
 **Try it now**
 
@@ -38,7 +38,7 @@ optimization, and deployment.
 Everything you need to start building on the DEEPX NPU lives on the developer portal.
 
 - **[developer.deepx.ai](https://developer.deepx.ai)** — developer portal home
-- **[ModelZoo](https://developer.deepx.ai/modelzoo/)** — 340+ optimized, ready-to-run models
+- **[ModelZoo](https://developer.deepx.ai/modelzoo/)** — 497 optimized, ready-to-run models
 - **[DXNN Introduction (lecture & video)](https://developer.deepx.ai/lecture/dxnn-introduction/)** — SDK overview and getting-started videos
 - **[DEEPX × Rapidflare AI Assistant](https://deepx.rapidflare.ai/)** — an AI-powered platform that makes DEEPX's technical knowledge (GitHub docs, DXNN SDK, Developer Portal, YouTube tutorials) queryable through one interface, returning instant answers cited with deep links
 
@@ -55,7 +55,7 @@ these are the best places to start.
 | **[dx-tutorials](https://github.com/DEEPX-AI/dx-tutorials)** | Install guides for the SDK and key demos — the fastest way to get hands-on. |
 | **[dx-runtime](https://github.com/DEEPX-AI/dx-runtime)** | Deployment platform for the target system — DX-RT, NPU driver/firmware, DX-APP (C++/Python examples), and DX-Stream. |
 | **[dx-compiler](https://github.com/DEEPX-AI/dx-compiler)** | Host-side compiler platform — **DX-COM** converts ONNX models into NPU-ready `.dxnn` binaries. |
-| **[dx-modelzoo](https://github.com/DEEPX-AI/dx-modelzoo)** | 340+ optimized, ready-to-run models with evaluation via ONNX Runtime or DX-Runtime, plus retraining recipes. |
+| **[dx-modelzoo](https://github.com/DEEPX-AI/dx-modelzoo)** | 497 optimized, ready-to-run models with evaluation via ONNX Runtime or DX-Runtime, plus retraining recipes. |
 
 > Browse all repositories → **[github.com/orgs/DEEPX-AI/repositories](https://github.com/orgs/DEEPX-AI/repositories)**
 
