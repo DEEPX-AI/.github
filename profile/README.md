@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-deepx.ai-24292f?style=flat-square)](https://deepx.ai)
 [![Developer Portal](https://img.shields.io/badge/Developer-developer.deepx.ai-1f6feb?style=flat-square)](https://developer.deepx.ai)
-[![ModelZoo](https://img.shields.io/badge/ModelZoo-340%2B%20models-2ea043?style=flat-square)](https://developer.deepx.ai/modelzoo/)
+[![ModelZoo](https://img.shields.io/badge/ModelZoo-497%20models-2ea043?style=flat-square)](https://developer.deepx.ai/modelzoo/)
 
 </div>
 
